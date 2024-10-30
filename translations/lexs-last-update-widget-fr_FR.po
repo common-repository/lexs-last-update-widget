@@ -1,0 +1,52 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lex's Last Update Widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/lexs-last-update-widget\n"
+"POT-Creation-Date: 2012-01-11 23:21:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-01-12 02:04+0100\n"
+"Last-Translator: Lex <lacavernedelex+poedit@gmail.com>\n"
+"Language-Team: Lex\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: lexs-last-update-widget.php:23
+msgid "A widget to display the date of the last blog update"
+msgstr "Un widget pour afficher la date de la dernière mise à jour du blog"
+
+#: lexs-last-update-widget.php:25
+msgid "Last Update"
+msgstr "Dernière MAJ"
+
+#: lexs-last-update-widget.php:121
+msgid "Title:"
+msgstr "Titre :"
+
+#: lexs-last-update-widget.php:125
+msgid "Date Format:"
+msgstr "Format de la Date :"
+
+#: lexs-last-update-widget.php:129
+msgid "Watched Elements:"
+msgstr "Eléments à regarder :"
+
+#: lexs-last-update-widget.php:136
+msgid "Modification Criteria for Posts and Pages:"
+msgstr "Critère de Modification pour les pages et les billets :"
+
+#: lexs-last-update-widget.php:150
+msgid "l, F j, Y"
+msgstr "l j F Y"
+
+#: lexs-last-update-widget.php:151
+msgid "Creation"
+msgstr "Création"
+
+#: lexs-last-update-widget.php:152
+msgid "Modification"
+msgstr "Modification"
+
